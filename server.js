@@ -36,7 +36,7 @@ app.get('/about',  (req, res) => {
 
     res.render('about.hbs')
 })
-
+//
 
 app.listen(port, () =>{
     console.log(`Escuchando el puerto ${port}`) 
