@@ -26,7 +26,7 @@ app.get('/',  (req, res) => {
     //     url: req.url
     // }
     res.render('home.hbs',{
-        nombre: 'Julian'
+        nombre: 'Julian Bruno'
         
     })
     
